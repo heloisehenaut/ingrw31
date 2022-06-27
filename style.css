@@ -1,3 +1,18 @@
 body {
   background-color: pink;
 }
+
+.content {
+  display: flex,
+  flex: 1;
+}
+
+.main {
+  width: 80%;
+}
+
+.sidebare {
+  background-color: aqua;
+  min-width: 20%;
+  padding: 1rem;
+}
