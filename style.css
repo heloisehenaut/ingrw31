@@ -3,7 +3,7 @@ body {
 }
 
 .content {
-  display: flex,
+  display: flex;
   flex: 1;
 }
 
@@ -15,4 +15,13 @@ body {
   background-color: aqua;
   min-width: 20%;
   padding: 1rem;
+}
+
+.navigation {
+  display: flex;
+  flex: 1
+}
+
+.navigation li {
+  color: aliceblue;
 }
